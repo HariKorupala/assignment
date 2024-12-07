@@ -1,0 +1,23 @@
+1.Requirement
+2.Allocate Resources
+3.Assign Work
+4.Dev Work
+5.Tester Work
+6.Admin Work
+7.Complete Dev
+8.Validate
+9.Test work on Dev
+10.Deploy in Tet
+11.Test in Test instances
+12.Deploy to stage
+13.Test the stage
+14.Deploy in UAT
+15.Test in UAT
+16.Perform functional test
+17.Create Change
+18.Deploy to prod
+19.Perform Cutover
+20.Start Validation
+21.Sign off from Smoke testers
+22.Sign off from Business users
+23.Go-Live completion
