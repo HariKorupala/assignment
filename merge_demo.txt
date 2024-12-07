@@ -8,7 +8,7 @@
 8.Validate
 9.Test work on Dev
 10.Deploy in Tet
-11.Test in Test instances
+
 12.Deploy to stage
 13.Test the stage
 14.Deploy in UAT
