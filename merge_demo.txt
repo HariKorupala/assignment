@@ -1,6 +1,6 @@
 1.Requirement
 2.Allocate Resources
-3.Assign Work
+
 4.Dev Work
 5.Tester Work
 6.Admin Work
@@ -14,7 +14,7 @@
 14.Deploy in UAT
 15.Test in UAT
 16.Perform functional test
-17.Create Change
+
 18.Deploy to prod 
 19.Perform Cutover
 20.Start Validation
